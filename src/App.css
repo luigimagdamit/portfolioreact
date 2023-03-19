@@ -1,0 +1,196 @@
+#root {
+  margin: 0 0;
+  text-align: center;
+  height:100%;
+  width:100%;
+  margin:0;
+  padding:0;
+}
+
+.left-border {
+  text-align: left;
+  width: 50%;
+  padding-left: 10%;
+}
+.right-border {
+  width: 50%;
+}
+.border {
+  display: flex;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: linear-gradient( rgba(0, 0, 0, 0.691), rgba(0, 0, 0, 0.543) ), url("https://github.com/luigimagdamit/landing-page/blob/main/images/background.jpg?raw=true");
+  font-family: Arial, Helvetica, sans-serif;
+}
+.pfp {
+  width: 300px;
+  border-radius: 50%;
+}
+#linkedin {
+  width: 2rem;
+  padding: 1rem;
+}
+
+.header {
+  padding-top: 2rem;
+  text-align: center;
+  height: 4rem;
+  margin: 0 auto;
+  background: linear-gradient( rgba(0, 0, 0, 0.892), rgba(0, 0, 0, 0.543) );
+  
+}
+.header a {
+  color: rgba(255, 255, 255, 0.811);
+  padding-top: 5rem;
+  padding: 2rem;
+}
+.aboutme {
+  padding: 5rem;
+  text-align: left;
+  
+}
+#aboutme {
+  cursor: pointer;
+}
+.aboutme h1 {
+  text-align: left;
+}
+.aboutme a {
+  padding: 1rem;
+}
+
+.boxitem {
+  width: 9rem;
+  height: 9rem;
+  padding: 5rem;
+  margin: 1rem;
+  border-radius: 10px;
+  color: rgb(187, 187, 187);
+  border: 0.001rem solid;
+  background-color: rgba(22, 22, 22, 0.726);
+  box-shadow: 5px 10px 18px #000000;
+  
+}
+.boxitem p {
+  font-size: 70%;
+  width: 100%;
+  height: 50%;
+}
+.boxitem h3 {
+  font-size: 80%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:normal;
+}
+.pic {
+  width: 100%;
+  height: 80%;
+}
+.gallery {
+  /* border: 1rem solid; */
+  display: flex;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 5rem;
+}
+.gallery h1 {
+  text-align: left;
+}
+.resume {
+  text-align: center;
+  width: 100%;
+}
+.resumelink {
+  padding-left: 0rem;
+}
+
+.quote {
+  background-color: rgb(243, 243, 238);
+  padding: 5rem;
+  padding-bottom: 10rem;
+  text-align: left;
+}
+.quote h1 {
+  color: rgb(39, 39, 39);
+}
+
+.quote i {
+  color: rgb(39, 39, 39);
+  font-size: 2rem;
+}
+
+.quote p {
+  color: rgb(39, 39, 39);
+}
+
+.quote h3 {
+  color: rgb(39, 39, 39);
+  text-align: center;
+}
+
+.bottom h3{
+  font-weight: normal;
+}
+.bottom p {
+  text-align: center;
+  color: white;
+}
+
+.projectsText {
+  text-align: left;
+  padding-left: 5rem;
+}
+.linebreak {
+  text-align: left;
+  padding-left: 5rem;
+}
+.bottom button {
+  margin-top: 2rem;
+  background-color: white;
+  color: black;
+}
+
+.fade-in {
+  transition: opacity 1.5s ease;
+}
+
+.fade-out {
+  opacity: 0;
+  transition: opacity 1.5s ease;
+}
+
+.left-border h2 {
+  font-size: 300%;
+  font-style: italic;
+}
+#education h2 {
+  font-weight: normal;
+}
+
+#education {
+  background-color: rgb(243, 243, 238);
+  color: rgb(50, 49, 44);
+}
+
+#education h4 {
+  font-style: italic;
+}
+.boxheader {
+  font-weight: normal;
+  color: rgb(189, 189, 189);
+  margin-bottom: -4rem;
+}
+
+.projectP {
+  text-align: left;
+  padding-left: 5rem;
+  margin-top: -2rem;
+  font-style: italic;
+  color: grey;
+}
+
+.skillsP {
+  margin-top: -2rem;
+  font-style: italic;
+  color: grey;
+}
