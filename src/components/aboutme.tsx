@@ -1,4 +1,5 @@
 import { useState } from "react";
+
 const aboutMeText = {
   greeting: "Hello, my name is Luigi Magdamit!",
   desc1: "I am a recent UCLA graduate with a strong background in programming and data science. I possess a diverse set of skills that includes proficiency in various programming languages such as Python, Javascript, Rust, Java, and C++. I also have a deep understanding of data analysis and visualization, which allows me to extract meaningful insights from complex datasets.",
@@ -17,6 +18,7 @@ const educationText = {
   school2degree: "Associate of Science Degree in Computer Science & Mathematics, GPA: 4.0",
   coursework2: "Data Structures & Algorithms, Object Oriented Programming, Programming Concepts & Methodologies, Advanced Objects, Java Programming, C++ Programming"
 }
+
 export function AboutMe() {
     const [color,setColor]=useState("60px 10px 18px black");
       function onHover() {
