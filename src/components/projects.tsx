@@ -77,7 +77,7 @@ let box11 = {
   description: " I developed a simple mobile application using React Native that allows users to browse and search for books from a library. The application pulls data from a RESTful API and displays the book information in a clean and user-friendly interface. Users can browse books by genre, search for specific titles or authors, and view details such as the book summary and cover image."
 }
 let box12 = {
-  githubLink: "https://docs.google.com/presentation/d/1fictKK3G1zPvS_XIYyyc9wfakqf76Grv/edit?usp=sharing&ouid=105330926834459686534&rtpof=true&sd=true",
+  githubLink: "https://github.com/luigimagdamit/weegeebot",
   pic: "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_638,h_442/https://databasecamp.de/wp-content/uploads/lstm-architecture-1024x709.png",
   title: "WeegeeBot - Text Generation Neural Network [Python, Keras]",
   description: " I developed a simple mobile application using React Native that allows users to browse and search for books from a library. The application pulls data from a RESTful API and displays the book information in a clean and user-friendly interface. Users can browse books by genre, search for specific titles or authors, and view details such as the book summary and cover image."
